@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/Manta-Network/manta-chaindata/main/tokens.json
 ```
 
 ``` json
-// id: chainId-chainType(-native)?-(symbol.toLowerCase())
 [
   {
     "id": "calamari-substrate-native-kma",
@@ -36,3 +35,5 @@ https://raw.githubusercontent.com/Manta-Network/manta-chaindata/main/tokens.json
   }
 ]
 ```
+
+> id: chainId-chainType(-native)?-(symbol.toLowerCase())
