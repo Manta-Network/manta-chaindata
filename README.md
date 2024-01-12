@@ -1,6 +1,6 @@
 # manta-chaindata
 
-Token and Chain data used in Manta's project
+Token and Chain data used in Manta Atlantic's project
 
 
 ## Usage
